@@ -4,12 +4,12 @@ _An end-to-end analysis of in-game boss loot, from web scraping to calculating e
 
 ---
 ## 📊 Table of Contents
-<a href="#project-overview">Project Overview</a>
-<a href="#tools--technologies">Tools & Technologies</a>
-<a href="#project-workflow">Project Workflow</a>
-<a href="#key-insights--visualizations">Key Insights & Visualizations</a>
-<a href="#how-to-run-this-project">How to Run This Project</a>
-<a href="#recruiter-perspective">A Recruiter's Perspective</a>
+- <a href="#project-overview">Project Overview</a>
+- <a href="#tools--technologies">Tools & Technologies</a>
+- <a href="#project-workflow">Project Workflow</a>
+- <a href="#key-insights--visualizations">Key Insights & Visualizations</a>
+- <a href="#how-to-run-this-project">How to Run This Project</a>
+- <a href="#recruiter-perspective">A Recruiter's Perspective</a>
 
 ---
 <h2><a class="anchor" id="project-overview"></a>🎯 Project Overview</h2>
